@@ -11,3 +11,19 @@
 # Datasource local storage ignored files
 /dataSources/
 /dataSources.local.xml
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+*.pdb
+*.rsuser
+*.sln.docstates
+*.sln.ide
+*.sln.docstates
+*.sln.ide
+*.VSCode
+.vscode/
+.vscode/
+.vscode/
